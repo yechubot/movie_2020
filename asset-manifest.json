@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/yechubot/movie_2020/static/css/main.6151b12a.chunk.css",
+    "main.js": "/yechubot/movie_2020/static/js/main.7986d003.chunk.js",
+    "main.js.map": "/yechubot/movie_2020/static/js/main.7986d003.chunk.js.map",
+    "runtime-main.js": "/yechubot/movie_2020/static/js/runtime-main.5ecd8639.js",
+    "runtime-main.js.map": "/yechubot/movie_2020/static/js/runtime-main.5ecd8639.js.map",
+    "static/js/2.9dbc7e27.chunk.js": "/yechubot/movie_2020/static/js/2.9dbc7e27.chunk.js",
+    "static/js/2.9dbc7e27.chunk.js.map": "/yechubot/movie_2020/static/js/2.9dbc7e27.chunk.js.map",
+    "index.html": "/yechubot/movie_2020/index.html",
+    "precache-manifest.edc8e3e76c9644c73b7b991a9b7700c7.js": "/yechubot/movie_2020/precache-manifest.edc8e3e76c9644c73b7b991a9b7700c7.js",
+    "service-worker.js": "/yechubot/movie_2020/service-worker.js",
+    "static/css/main.6151b12a.chunk.css.map": "/yechubot/movie_2020/static/css/main.6151b12a.chunk.css.map",
+    "static/js/2.9dbc7e27.chunk.js.LICENSE.txt": "/yechubot/movie_2020/static/js/2.9dbc7e27.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ecd8639.js",
+    "static/js/2.9dbc7e27.chunk.js",
+    "static/css/main.6151b12a.chunk.css",
+    "static/js/main.7986d003.chunk.js"
+  ]
+}
